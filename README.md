@@ -20,5 +20,5 @@ This is a project to auto-deploy with an ML payload
 
 
 # Resources
-[Continuous Delivery of GCP Google App Engine](https://www.youtube.com/watch?v=2BJSUlaKMjQ)
-[Setup Continuous Delivery on GCP Platform with Google App Engine and Cloud Build](https://www.youtube.com/watch?v=_TfWdOvQXwU)
+* [Continuous Delivery of GCP Google App Engine](https://www.youtube.com/watch?v=2BJSUlaKMjQ) 
+* [Setup Continuous Delivery on GCP Platform with Google App Engine and Cloud Build](https://www.youtube.com/watch?v=_TfWdOvQXwU)
