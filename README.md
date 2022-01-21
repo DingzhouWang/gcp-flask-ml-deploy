@@ -19,4 +19,4 @@ This is a project to auto-deploy with an ML payload
 *Part of Duke Coursera Course:  Cloud Computing for Data*
 
 
-add test!
+[Continuous Delivery of GCP Google App Engine](https://www.youtube.com/watch?v=2BJSUlaKMjQ)
